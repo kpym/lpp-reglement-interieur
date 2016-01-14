@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Chapitre 1 : Fonctionnement Général](chapitre\ 1.md)
+* [Chapitre 1 : Fonctionnement Général](chapitre 1)
 * [Chapitre 2 : Ressources humaines](chapitre 2)
 * [Chapitre 3 : Santé et sécurité](chapitre 3)
 * [Chapitre 4 : Confidentialité, publications et communication, propriété intellectuelle](chapitre 4)
