@@ -4,7 +4,7 @@
 * [Chapitre 1 : Fonctionnement Général](chapitre_1.md)
 * [Chapitre 2 : Ressources humaines](chapitre_2.md)
 * [Chapitre 3 : Santé et sécurité](chapitre_3.md)
-* [Chapitre 4 : Confidentialité, publications et communication, propriété intellectuelle](chapitre_4.m)
+* [Chapitre 4 : Confidentialité, publications et communication, propriété intellectuelle](chapitre_4.md)
 
 * [Chapitre 5 : Dispositions générales](chapitre_5.md)
 * [ANNEXE 1  : ORGANIGRAMME](annexe_1.md)
