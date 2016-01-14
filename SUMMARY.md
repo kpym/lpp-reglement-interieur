@@ -10,7 +10,6 @@
 * [ANNEXE 1  : ORGANIGRAMME](annexe_1.md)
 * [ANNEXE N°2 : AMENAGEMENT D'HORAIRES ](annexe_2.md)
 * [ANNEXE N°3 : CONSIGNES D'URGENCE - Noms et coordonnées des assistants de prévention](annexe_3.md)
-* [ANNEXE 4 : Liste des outils à disposition du directeur d'unité et de son assistant de prévention (]annexe_4.md)Toutes tutelles confondues.md)
-
+* [ANNEXE 4 : Liste des outils à disposition du directeur d'unité et de son assistant de prévention (Toutes tutelles confondues)](annexe_4.md)
 * [ANNEXE N°5](annexe_5.md)
 * [ANNEXE N°6 : REGLEMENT SUR L'USAGE  DES SYSTEMES D'INFORMATION  A LILLE 1](annexe_6.md)
