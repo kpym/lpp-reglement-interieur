@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](INTRODUCTION.md)
 * [Chapitre 1 : Fonctionnement Général](chapitre_1.md)
 * [Chapitre 2 : Ressources humaines](chapitre_2.md)
 * [Chapitre 3 : Santé et sécurité](chapitre_3.md)
