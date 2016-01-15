@@ -17,19 +17,19 @@ L'Assistant de prévention conseille le directeur d'unité, notamment dans les d
 - la mise en place d'une démarche de prévention des risques au sein de l'unité notamment de l'évaluation des risques;
 - la mise en œuvre en concertation avec le conseiller de prévention et le médecin de prévention compétents, des règles de santé et sécurité au travail visant à l'amélioration des conditions de travail des personnels.
 - l'accueil des nouveaux arrivants et leur formation à la prévention des risques au poste de travail.
- _[Indiquer le(s) nom(s) et les coordonnées de(s) assistants de prévention.]_
+ `[Indiquer le(s) nom(s) et les coordonnées de(s) assistants de prévention.]`
 
 Les missions de l'Assistant de prévention et la quotité de temps de travail affectée aux questions de santé et sécurité sont précisées dans une lettre de cadrage. Dans le cas où plusieurs assistants de prévention sont nommés au sein de l'Unité, les rôles et compétences de chacun d'entre eux devront être réparties et précisées.
 
 Les Assistants de prévention font partis du réseau des agents de prévention animé par le Conseiller de prévention de l'établissement et ses homologues des tutelles partenaires. Ils disposent d'un appui technique de la part du service prévention des risques de l'établissement. Ils disposent d'une base de gestion documentaire avec des outils pour les aider à remplir leurs missions.
 
-### 6.3 Personne Radio-Compétente _(si applicable)_
+### 6.3 Personne Radio-Compétente `(si applicable)`
 
 La personne compétente en radioprotection est chargée de veiller au respect de la réglementation et des principes de radioprotection sous l'autorité de la personne autorisé à mettre en œuvre les activités nucléaires.
 Elle est nommée par son employeur et le chef d'établissement hébergeur.
-_[Indiquer le(s) nom(s) et les coordonnées de(s) PCR.]_ »
+`[Indiquer le(s) nom(s) et les coordonnées de(s) PCR.]` »
 
-### 6.4 Personnes compétentes dans un domaine de gestion du risque _[si applicable]_
+### 6.4 Personnes compétentes dans un domaine de gestion du risque `[si applicable]`
 
 Indiquer, s'il y a lieu, les noms, les coordonnées, les missions et la localisation dans l'Unité des :
 - Référent sécurité LASER
@@ -94,7 +94,7 @@ Par ailleurs, tout personnel est tenu de participer aux exercices organisés par
 
 ### 7.6 Conduite(s) à tenir en cas d'accident lié à une activité spécifique (si applicable)
 
-_[Cette partie est complétée en s'appuyant sur le document unique et le plan d'urgence interne de l'unité. En cas de mise en œuvre de produits, de procédures ou d'équipements dangereux (sources de rayonnements ionisants, agent chimique dangereux, agent biologique pathogène, distillations, équipement sous pression...), indiquer pour chaque cas la conduite à tenir en cas d'incident ou d'accident]_
+`[Cette partie est complétée en s'appuyant sur le document unique et le plan d'urgence interne de l'unité. En cas de mise en œuvre de produits, de procédures ou d'équipements dangereux (sources de rayonnements ionisants, agent chimique dangereux, agent biologique pathogène, distillations, équipement sous pression...), indiquer pour chaque cas la conduite à tenir en cas d'incident ou d'accident]`
 
 ### 7.8 Accident et incident dans le service 
 
@@ -103,14 +103,14 @@ _[Cette partie est complétée en s'appuyant sur le document unique et le plan d
 Toute victime d'un accident de service, de trajet ou de mission doit en informer (ou en faire informer) son employeur dans les quarante huit heures qui suivent la survenue de l'accident. L'employeur remet alors immédiatement à l'agent une feuille de déclaration d'accident.
 Le Directeur d'Unité doit immédiatement être informé de tout accident de service, de trajet ou de mission d'agent travaillant dans son Unité, afin qu'il puisse en faire la déclaration à l'employeur de la victime de l'accident.
 De même, il doit être informé de toute défectuosité, anomalie ou incident qui pourraient porter atteinte à la santé d'un personnel dans le cadre des activités de l'unité.
-Tout accident ou incident doit être formalisé dans le registre santé et sécurité du travail de l'unité. Chaque accident et incident devra faire l'objet d'une analyse permettant d'en définir les causes de et d'éviter qu'il se reproduise. Celle-ci devra être menée : _[définir les modalités ainsi que les participants, à minima l'Assistant de prévention, le DU ou son représentant et la victime]_
+Tout accident ou incident doit être formalisé dans le registre santé et sécurité du travail de l'unité. Chaque accident et incident devra faire l'objet d'une analyse permettant d'en définir les causes de et d'éviter qu'il se reproduise. Celle-ci devra être menée : `[définir les modalités ainsi que les participants, à minima l'Assistant de prévention, le DU ou son représentant et la victime]`
 
 ### 7.9 Registre santé et sécurité au travail 
 
 (cf. Art 46.7 du règlement intérieur Lille 1)
 
 Un registre santé sécurité au travail est mis à la disposition du personnel afin de consigner toutes les observations et suggestions relatives à la prévention des risques et à l'amélioration des conditions de travail Il permet également de signaler tout incident ou accident survenu dans l'Unité.
-Le registre de l'unité se situe :_[Indiquer l'emplacement de ce registre]_
+Le registre de l'unité se situe :`[Indiquer l'emplacement de ce registre]`
 
 ### 7.10 Exercice du droit d'alerte et du droit de retrait 
 
@@ -132,7 +132,7 @@ Cette alerte doit être consignée par écrit dans le registre d'alerte en mati�
 Le Directeur de l'Unité doit s'assurer que les agents placés sous son autorité, notamment les nouveaux entrants, ont bien reçu une formation à la sécurité et, le cas échéant, une formation spécifique adaptée à leur poste de travail, aux équipements qu'ils utilisent et aux manipulations qu'ils devront réalisés. Il doit en garantir la traçabilité.
 Tout personnel ayant des activités au sein de l'unité a l'obligation de suivre la formation générale à la sécurité prévue pour les nouveaux entrants. Il a également l'obligation d'avoir été formé avant de pouvoir utiliser les équipements de travail et les produits de l'unité.
 Il peut également être soumis à l'obligation de détenir des autorisations particulières. Par exemple, toute intervention d'ordre électrique au sein de l'établissement est soumise à la délivrance d'une habilitation électrique par le chef d'établissement employeur.
-_[Lister dans cette partie toute les formations obligatoires spécifiques par lesquelles l'unité est concernée, exemple risque biologique, risque radioactives, habilitation autoclaves..etc]_
+`[Lister dans cette partie toute les formations obligatoires spécifiques par lesquelles l'unité est concernée, exemple risque biologique, risque radioactives, habilitation autoclaves..etc]`
 
 ### 7.12 Accueil de personnes extérieures 
 
@@ -149,7 +149,7 @@ Pour établir ce plan de prévention, l'unité peut s'appuyer sur l'Assistant de
 ### 7.13 Vérifications périodiques obligatoires
 
 Dans le respect de la législation en vigueur, les équipements de l'unité suivants sont soumis à vérifications périodiques obligatoires :
-_[Lister dans cette partie tous les équipements soumis à ces contrôles, la fréquence des contrôles et les modalités du contrôle (ex : autoclave, centrifugeuse, sorbonnes, PSM...]_
+`[Lister dans cette partie tous les équipements soumis à ces contrôles, la fréquence des contrôles et les modalités du contrôle (ex : autoclave, centrifugeuse, sorbonnes, PSM...]`
 
 ### 7.14 Gestion des déchets (cf Art 46.21 du règlement intérieur Lille 1)
 

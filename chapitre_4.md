@@ -28,21 +28,21 @@ Toute publication et communication doit respecter la législation en vigueur et 
 - la réglementation ZRR applicable lorsque le sujet de la publication relève d'un secteur protégé,
 - les droits d'auteurs sur les textes, images, sons, vidéos...
 
-*Pour les ZRR _(si applicable)_*
+*Pour les ZRR `(si applicable)`*
 
 Le stagiaire exerce ses activités de recherche sous le contrôle du correspondant ZZR de l'Unité. Son responsable de stage doit le cas échéant attirer l'attention du Directeur d'Unité sur les risques inhérents à la diffusion des informations contenues dans le projet de rapport, et particulièrement s'il porte sur une spécialité sensible. Le Directeur d'Unité pourra exiger du stagiaire qu'il occulte les informations dont la diffusion présente un risque au sens de l'article R.413-5-1 I du code pénal1. Le stagiaire qui diffuserait des informations en dépit de l'opposition du Directeur d'Unité exposerait sa responsabilité sur le fondement de l'article 413-10 du code pénal si les informations font l'objet d'une classification, ou des articles 226-13 (secret professionnel).
 
 #### 9.2.2 Formalisme des publications et communication
 
-Les publications des personnels de l'Unité font apparaître le lien avec les organismes de tutelle. L'affiliation correspond aux dispositions de la (future) _charte des publications de l'Université de Lille reconnue par la convention quinquennale en vigueur_.
+Les publications des personnels de l'Unité font apparaître le lien avec les organismes de tutelle. L'affiliation correspond aux dispositions de la (future) `charte des publications de l'Université de Lille reconnue par la convention quinquennale en vigueur`.
 
-Un exemplaire de toutes les publications (articles, revues, thèses...) dont tout ou partie du travail a été effectué à l'Unité doit être remis dès parution à _(... indiquer le nom et le prénom)_.
+Un exemplaire de toutes les publications (articles, revues, thèses...) dont tout ou partie du travail a été effectué à l'Unité doit être remis dès parution à `(... indiquer le nom et le prénom)`.
 
 Ces publications doivent également comporter les éventuelles mentions requises par l'organisme contribuant à financer les travaux ayant conduit à la publication.
 
 Les personnels de l'Unité sont tenus de respecter les règles de communication du CNRS explicitées dans la Charte de la Communication du CNRS et/ou des autres établissements de tutelle.
 
-_(si applicable)_ Pour les seuls secteurs scientifiques sensibles : toute communication, enseignement, qu'il s'agisse d'un colloque, d'un séminaire ou d'un congrès est soumise à autorisation du Haut Fonctionnaire Sécurité Défense du MESR par l'intermédiaire du Fonctionnaire sécurité Défense du CNRS.
+`(si applicable)` Pour les seuls secteurs scientifiques sensibles : toute communication, enseignement, qu'il s'agisse d'un colloque, d'un séminaire ou d'un congrès est soumise à autorisation du Haut Fonctionnaire Sécurité Défense du MESR par l'intermédiaire du Fonctionnaire sécurité Défense du CNRS.
 
 #### 9.2.3 Logos et marques
 
@@ -62,7 +62,7 @@ De manière analogue à une publication traditionnelle, un serveur doit avoir "u
 
 Toute diffusion d'informations sur support soit papier, soit informatique, soit page web émanant des Unités Mixtes doit comporter les logos des tutelles.
 
-### 9.3 Cahiers de laboratoire _(si applicable)_
+### 9.3 Cahiers de laboratoire `(si applicable)`
 
 Il est demandé à tous les personnels de recherche de l'Unité de tenir un cahier de laboratoire afin de garantir le suivi et la protection des résultats de leurs travaux.
 

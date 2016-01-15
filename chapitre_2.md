@@ -8,7 +8,7 @@ Pour les enseignants-chercheurs, la durée du travail est fixée par le décret 
 
 Pour les personnels BIATSS de Lille1, la durée annuelle du travail est fixée par le décret n°2000-815 du 25 août 2000 modifié et par son arrêté d'application du 15 janvier 2002. Les modalités de mise en œuvre sont définies par une circulaire interne annuelle.
 
-Pour les personnels CNRS : la durée annuelle de travail est fixée à 1 607 heures. Cette durée tient compte des 7 heures de travail dues au titre de la journée de solidarité La durée hebdomadaire est de [entre 36h11 et 38h30, _à déterminer_].
+Pour les personnels CNRS : la durée annuelle de travail est fixée à 1 607 heures. Cette durée tient compte des 7 heures de travail dues au titre de la journée de solidarité La durée hebdomadaire est de [entre 36h11 et 38h30, `à déterminer`].
 Les modalités de mise en œuvre dans l'Unité prennent en compte les dispositions du décret n°2000-815 du 25 août 2000 modifié et de son arrêté d'application du 31 août 2001 ainsi que celles du cadrage national du CNRS en date du 23 octobre 2001 modifié.
 Seuls les personnels autorisés à accomplir un service à temps partiel d'une durée inférieure ou égale à 80% peuvent travailler selon un cycle hebdomadaire de travail inférieur à 5 jours.
 
@@ -18,16 +18,16 @@ La plage horaire de travail de référence commence à X heures et se termine à
 
 Après accord du Directeur de l'Unité et sous réserve des nécessités de service, certains personnels peuvent pratiquer un horaire décalé par rapport à la plage horaire de référence.
 
-### 2.2 Cycle de travail particulier _[le cas échéant]_ 
+### 2.2 Cycle de travail particulier `[le cas échéant]` 
 
 Sur décision du Directeur de l'Unité, le cycle de travail est ..., organisé comme suit : ...
 
-### 2.3 Sujétions et astreintes _[le cas échéant]_
+### 2.3 Sujétions et astreintes `[le cas échéant]`
 
 Pour les personnels BIATSS de Lille1, les dispositions relatives aux astreintes sont définies dans la circulaire annuelle;
 
 Les ingénieurs et techniciens CNRS concernés relèvent du régime de compensation prévu par le décret 2002-70 du 15 janvier 2002 et la circulaire n° 03001DRH du 13 février 2003.
-Les situations d'emploi ouvrant droit à compensation en temps de repos ou en indemnisation sont celles visées par la décision n°... de l'Institut ... _[références de la décision de l'Institut dont relève l'Unité listant les situations d'emploi]_.
+Les situations d'emploi ouvrant droit à compensation en temps de repos ou en indemnisation sont celles visées par la décision n°... de l'Institut ... `[références de la décision de l'Institut dont relève l'Unité listant les situations d'emploi]`.
 
 Les sujétions et/ou astreintes auxquelles sont soumis les personnels de l'Unité sont les suivantes :
 
@@ -35,7 +35,7 @@ Les personnels de l'Unité concernés sont ceux exerçant les fonctions suivante
 
 ### 2.4 Fermeture de l'Unité
 
-Les périodes de fermeture sont décidées en début de chaque année par le directeur d'Unité après avis du conseil d'Unité. Cette décision tient compte de l'organisation annuelle de l'université. Une période de fermeture générale est prévue pour _(à définir)_.
+Les périodes de fermeture sont décidées en début de chaque année par le directeur d'Unité après avis du conseil d'Unité. Cette décision tient compte de l'organisation annuelle de l'université. Une période de fermeture générale est prévue pour `(à définir)`.
 Pour les UMR CNRS, ces périodes doivent être saisies, dès qu'elles sont connues, dans le logiciel AGATHE. elles seront déduites du solde de jours de congés ou RTT sauf si elles coïncident avec un jour habituellement non travaillé.
 
 ## Article 3 : Congés annuels
@@ -46,7 +46,7 @@ Le nombre de jours de congés accordés au titre de l'aménagement et de la réd
 
 Pour les personnels (hors enseignants-chercheurs), les jours de congés sont accordés, après avis du responsable hiérarchique, sous réserve des nécessités de service.
 
-_[chaque tutelle explicite en annexe 2 la durée hebdomadaire de travail et les règles relatives aux congés/RTT]_
+`[chaque tutelle explicite en annexe 2 la durée hebdomadaire de travail et les règles relatives aux congés/RTT]`
 Les jours RTT sont utilisés dans les mêmes conditions que les jours de congés annuels.
 Le report des jours de congés annuels ainsi que les jours RTT non utilisés, est autorisé jusqu'au 30 avril de l'année suivante pour les personnels BIATSS de Lille1 et jusque fin février de l'année suivante pour les personnels CNRS. Les jours qui n'auront pas été utilisés à cette date seront définitivement perdus, sauf si ces jours ont été déclarés dans un Compte épargne temps.
 
