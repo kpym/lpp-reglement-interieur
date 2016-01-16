@@ -9,14 +9,14 @@
     "ebook": "styles/website.css"
   },
   "pdf": {
-    "pageNumbers": false,
+    "pageNumbers": true,
     "fontSize": 10,
-    "paperSize": "a5",
+    "paperSize": "a4",
     "margin": {
-      "right": 0,
-      "left": 0,
-      "top": 0,
-      "bottom": 0
+      "right": 70,
+      "left": 70,
+      "top": 35,
+      "bottom": 35
     },
     "headerTemplate": null,
     "footerTemplate": null
