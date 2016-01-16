@@ -20,7 +20,7 @@
       "top": 35,
       "bottom": 70
     },
-    "headerTemplate": "_SECTION_",
-    "footerTemplate": "_PAGENUM_"
+    "headerTemplate": "",
+    "footerTemplate": null
   }
 }
